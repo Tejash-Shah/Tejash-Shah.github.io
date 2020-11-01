@@ -24,7 +24,7 @@ Feature Selection is a process of selecting a subset of relevant features(variab
         - Quasi Constant
         - Duplicated 
     * **Statistical measures**
-        - Chi Square | Fisher score
+        - Chi Square / Fisher score
         - Univariate methods (ANOVA)
         - Mutual Information 
     * **Correlation**
