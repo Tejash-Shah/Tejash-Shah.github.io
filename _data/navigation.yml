@@ -4,3 +4,5 @@ main:
     url: /about/
   - title: "Machine Learning Notes"
     url: /machine-learning/
+  - title: "Machine Learning Projects"
+    url: /machine-learning-projects/
