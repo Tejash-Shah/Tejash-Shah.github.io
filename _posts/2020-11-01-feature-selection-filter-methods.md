@@ -24,11 +24,11 @@ excerpt: "Machine Learning, Feature Selection"
  3. Univariate Tests
  4. Univariate roc-auc/rmse
 
- ### **Two steps**: 
+**Two steps**: 
  1. Rank features based on certain criteria/ metric. 
  2. Select features with high ranking.
 
- ### **Pros**:
+**Pros**:
  1. Fast
  2. Doesn't care about feature redundancy or feature with low ranking combine with other feature can give rich information.  
 
@@ -38,9 +38,6 @@ excerpt: "Machine Learning, Feature Selection"
  
  1. How much of one variable can be explained using another variable. 
  2. How much information does two variable X and Y share.
-
-
- Mutual information formula
 
 
 **3.2 Fisher Score**
