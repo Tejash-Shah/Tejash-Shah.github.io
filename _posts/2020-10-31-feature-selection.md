@@ -5,8 +5,6 @@ tags: [machine learning, feature selection]
 excerpt: "Machine Learning, Feature Selection"
 ---
 
-# Feature-Selection
-
 Feature Selection is a process of selecting a subset of relevant features(variable, predictors) for use in machine learning modeling.
 
 ## Why should we select features
