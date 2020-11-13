@@ -1,6 +1,6 @@
 ---
-layout: archive
+title: "Machine learning posts"
 permalink: /machine-learning/
-title: "Machine learning posts by tags"
+layout: collection
 author_profile: true
 ---
