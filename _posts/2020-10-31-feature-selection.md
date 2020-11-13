@@ -1,6 +1,8 @@
 ---
 title: "Feature Selection Notes"
 date: 2020-10-31
+categories:
+  - Feature Selection
 tags: [machine learning, feature selection]
 excerpt: "Machine Learning, Feature Selection"
 ---
