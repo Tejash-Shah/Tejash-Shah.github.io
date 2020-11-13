@@ -1,6 +1,6 @@
 ---
 title: "Machine learning projects"
 permalink: /machine-learning-projects/
-layout: collections
+layout: archive
 author_profile: true
 ---
