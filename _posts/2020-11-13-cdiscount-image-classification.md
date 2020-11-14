@@ -3,8 +3,8 @@ title: "CDiscount Image Classification Challenge"
 date: 2020-11-13
 categories:
   - Image Classification Project
-tags: [deep learning, CNN, kaggle competition]
-excerpt: "deep Learning, CNN, kaggle competition"
+tags: [Deep learning, CNN, Kaggle competition]
+excerpt: "Deep Learning, CNN, Kaggle competition"
 ---
 
 In this challenge, a model has been developed that will classify the products based on their images. The dataset which is provided has following characteristics:
