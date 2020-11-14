@@ -3,8 +3,8 @@ title: "Pover-T Tests: Predicting Poverty"
 date: 2020-11-13
 categories:
   - Binary Classification Project
-tags: [machine learning, XGBoost, drivendata competition]
-excerpt: "machine Learning, XGBoost, drivendata competition"
+tags: [Machine learning, XGBoost, Drivendata competition]
+excerpt: "Machine Learning, XGBoost, Drivendata competition"
 ---
 
 This repo contains the solution for the challenge hosted by drivendata for predicting poverty
