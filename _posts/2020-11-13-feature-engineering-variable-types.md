@@ -4,7 +4,7 @@ date: 2020-11-13
 categories:
   - Feature Engineering
 tags: [machine learning, feature engineering]
-excerpt: "Machine Learning, Feature Selection"
+excerpt: "Machine Learning, Feature Engineering"
 ---
 
 A variable is any characteristics, number, or quantity that can be measured or counted. For example: Age, Gender, Income, Country etc.
