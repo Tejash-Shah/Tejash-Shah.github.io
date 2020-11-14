@@ -2,7 +2,7 @@
 title: "Pover-T Tests: Predicting Poverty"
 date: 2020-11-13
 categories:
-  - Binary Classification
+  - Binary Classification Project
 tags: [machine learning, XGBoost, drivendata competition]
 excerpt: "machine Learning, XGBoost, drivendata competition"
 ---
