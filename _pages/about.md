@@ -11,3 +11,11 @@ I have also contributed to open source packages like [Feature Engine](https://gi
 2. DropDuplicateFeatures(): Drop duplicate features from a dataframe. 
 
 Find my Master's project research paper [here](https://www.researchgate.net/publication/325659247_Machine_Learning_Models_for_Predicting_Fracture_Strength_of_Porous_Ceramics_and_Glasses)
+
+
+Competition experience:
+1. WiDS Datathon 2020 (kaggle): Top 14% 
+2. Pover-T Tests: Predicting Poverty (drivendata): Top 17%
+3. Santander Customer Transaction Prediction(kaggle): Top 20% 
+4. Sustainable Industry: Rinse Over Run (drivendata): Top 21%
+5. IEEE-CIS Fraud Detection(kaggle): Top 25% 
