@@ -1,5 +1,5 @@
 ---
-title: "Machine learning posts"
+title: "Articles and Projects"
 permalink: /machine-learning/
 layout: categories
 author_profile: true
