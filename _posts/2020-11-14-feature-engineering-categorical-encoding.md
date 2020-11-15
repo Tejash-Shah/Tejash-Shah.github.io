@@ -1,5 +1,5 @@
 ---
-title: "Feature Engineering - Categorical encoding"
+title: "Categorical encoding"
 date: 2020-11-14
 categories:
   - Feature Engineering

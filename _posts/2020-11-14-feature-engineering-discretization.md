@@ -1,5 +1,5 @@
 ---
-title: "Feature Engineering - Discretisation"
+title: "Discretisation"
 date: 2020-11-14
 categories:
   - Feature Engineering

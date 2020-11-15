@@ -1,5 +1,5 @@
 ---
-title: "Feature Engineering - Feature Scaling"
+title: "Feature Scaling"
 date: 2020-11-15
 categories:
   - Feature Engineering

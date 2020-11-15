@@ -1,5 +1,5 @@
 ---
-title: "Feature Selection - Embedded methods"
+title: "Embedded methods"
 date: 2020-11-01
 categories:
   - Feature Selection

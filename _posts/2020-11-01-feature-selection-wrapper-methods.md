@@ -1,5 +1,5 @@
 ---
-title: "Feature Selection - Wrapper methods"
+title: "Wrapper methods"
 date: 2020-11-01
 categories:
   - Feature Selection

@@ -1,5 +1,5 @@
 ---
-title: "Feature Engineering - Missing Data Imputation"
+title: "Missing Data Imputation"
 date: 2020-11-14
 categories:
   - Feature Engineering

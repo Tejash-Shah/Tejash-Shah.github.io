@@ -1,5 +1,5 @@
 ---
-title: "Feature Engineering - Variable Types"
+title: "Variable Types"
 date: 2020-11-13
 categories:
   - Feature Engineering

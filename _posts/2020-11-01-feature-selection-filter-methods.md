@@ -1,5 +1,5 @@
 ---
-title: "Feature Selection - Filter methods"
+title: "Filter methods"
 date: 2020-11-01
 categories:
   - Feature Selection

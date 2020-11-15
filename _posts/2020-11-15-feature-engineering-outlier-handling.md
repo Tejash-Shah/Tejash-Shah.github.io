@@ -1,5 +1,5 @@
 ---
-title: "Feature Engineering - Outlier Handling"
+title: "Outlier Handling"
 date: 2020-11-15
 categories:
   - Feature Engineering
