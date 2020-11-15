@@ -1,5 +1,5 @@
 ---
-title: "Feature Engineering - Variable Characteristics"
+title: "Variable Characteristics"
 date: 2020-11-13
 categories:
   - Feature Engineering
