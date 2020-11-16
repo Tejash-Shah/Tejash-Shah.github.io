@@ -12,7 +12,7 @@ Competition experience:
 4. Sustainable Industry: Rinse Over Run (drivendata): Top 21%
 5. IEEE-CIS Fraud Detection(kaggle): Top 25% 
 
-Open-source contribution:
+Open-source contribution:<br>
 [Feature Engine](https://github.com/solegalli/feature_engine)
 1. ```DropConstantFeatures()```: Drops constant and quasi-constant features from a dataframe. It works for both numerical and categorical variables. sklearn implementation ```VarianceThreshold``` only support numerical features.  
 2. ```DropDuplicateFeatures()```: Drop duplicate features from a dataframe. 
