@@ -22,7 +22,7 @@ Data Science Analyst - J.D. Power - July 2018 - Present <br>
 Software Engineer Intern - MoboDexter Inc - Sep 2017 - Dec 2017
 
 **Education**: <br>
-M.S, Electrical Engineering – San Jose State University – GPA: 3.8 - May 2018
+M.S, Electrical Engineering – San Jose State University – GPA: 3.8 - May 2018 <br>
 B.E, Electronics and Telecommunication – I.E.T D.A.V.V. - May 2016
 
 **Master's project research paper** [link](https://www.researchgate.net/publication/325659247_Machine_Learning_Models_for_Predicting_Fracture_Strength_of_Porous_Ceramics_and_Glasses)
