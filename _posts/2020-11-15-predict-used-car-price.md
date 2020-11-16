@@ -49,6 +49,6 @@ I have taken the data collected from the author and implemented it end-to-end in
 6. **Model building**: Finding the best model is not the purpose right now, so ```XGBoost``` is trained without optimization.
 7. **Model deployment using Streamlit**: In progress
 8. **Setup CI/CD for training automation**: Working on displaying the metrics on pull request. In pull request, we specify the runner to train our machine learning model. After training, metrics are displayed in pull request so we decide if we want to push the changes in pull request to main branch or not. 
-9. **Data and model versioning using DVC**: Used google drive to act as remote storage for data and model versioning.
+9. **Data and model versioning using DVC**: Used google drive as remote storage for data and model versioning.
 
 Right now, this project resides in private repository. Will be open-sourcing soon. Feel free to reach out to me in case of any questions.
