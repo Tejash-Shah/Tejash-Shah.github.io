@@ -17,7 +17,13 @@ Open-source contribution:<br>
 1. ```DropConstantFeatures()```: Drops constant and quasi-constant features from a dataframe. It works for both numerical and categorical variables. sklearn implementation ```VarianceThreshold``` only support numerical features.  
 2. ```DropDuplicateFeatures()```: Drop duplicate features from a dataframe. 
 
-Master's project research paper [here](https://www.researchgate.net/publication/325659247_Machine_Learning_Models_for_Predicting_Fracture_Strength_of_Porous_Ceramics_and_Glasses)
+Experience:
+Data Science Analyst - J.D. Power - July 2018 - Present
+Software Engineer Intern - MoboDexter Inc - Sep 2017 - Dec 2017
 
+Education:
+M.S, Electrical Engineering – San Jose State University – GPA: 3.8 - May 2018
+B.E, Electronics and Telecommunication – I.E.T D.A.V.V. - May 2016
 
+Master's project research paper [link](https://www.researchgate.net/publication/325659247_Machine_Learning_Models_for_Predicting_Fracture_Strength_of_Porous_Ceramics_and_Glasses)
 
