@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Tejash Shah"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science portfolio"
   location         : "Los Angeles, CA"
   email            : stejash15[at]gmail.com
