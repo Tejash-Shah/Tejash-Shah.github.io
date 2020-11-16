@@ -18,7 +18,7 @@ Open-source contribution:<br>
 2. ```DropDuplicateFeatures()```: Drop duplicate features from a dataframe. 
 
 Experience: <br>
-Data Science Analyst - J.D. Power - July 2018 - Present
+Data Science Analyst - J.D. Power - July 2018 - Present <br>
 Software Engineer Intern - MoboDexter Inc - Sep 2017 - Dec 2017
 
 Education: <br>
