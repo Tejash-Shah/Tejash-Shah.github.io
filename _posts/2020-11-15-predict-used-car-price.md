@@ -13,14 +13,14 @@ I have taken the data collected from the author and tried to implement it end-to
 
 These are the steps I have performed:
 
-1. Data Cleaning: First check for the plausible values in the dataset. There are couple of things which needs attention
+1. **Data Cleaning**: First check for the plausible values in the dataset. There are couple of things which needs attention
     a) Used car price has really values in millions of dollars and if we look at the description those records/postings are from dealer saying they are willing to buy a car. So high value is not a value of a real car. 
-2. Exploratory Data Analysis
-3. Feature Engineering
-4. Feature Selection
-5. Model building
-6. Model deployment using Streamlit: In progress
-7. Setup CI/CD for training automation
-8. Data and model versioning using DVC
+2. **Exploratory Data Analysis**
+3. **Feature Engineering**: There are a lot of categorical variables for which first ```RareLabelCategoricalEncoder()``` is used to combine rare labels to a new category and following this, ```MEstimateEncoder()``` is applied to perform categorical encoding.
+4. **Feature Selection**: Extensive feature selection techniques are not performed right now. Shap plots are used to see the feature importance.
+5. **Model building**: Finding the best model is not the purpose right now, so ```XGBoost``` is trained without optimization.
+6. **Model deployment using Streamlit**: In progress
+7. **Setup CI/CD for training automation**: Working on displaying the metrics on pull request. In pull request, we specify the runner to train our machine learning model. After training, metrics are displayed in pull request so we decide if we want to push the changes in pull request to main branch or not. 
+8. **Data and model versioning using DVC**: Used google drive to act as remote storage for data and model versioning.
 
-Right now, this project resides in private repository. Will be open-sourcing soon.
+Right now, this project resides in private repository. Will be open-sourcing soon. Feel free to reach out to me in case of any questions.
