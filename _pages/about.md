@@ -3,7 +3,13 @@ title: "About"
 permalink: /about/
 ---
 
-I'm a data scientist who likes to build products utilizing AI, ML tools. I have end-to-end experience in building ML products starting from data collection, data cleaning, feature engineering and selection, model building and deployment. Also, I have built products utilizing visualization softwares like Tableau and Domo.   
+• A data scientist/analyst with 3 years of professional experience who likes to build products utilizing AI, ML tools 
+• Have end-to-end experience in building ML products starting from data collection, data cleaning, feature engineering and selection, model building and deployment
+• Built descriptive products using visualization softwares like Tableau and Domo
+• Skilled in using SQL, Redshift, Google BigQuery to retrieve and analyze data
+• Experience of handling large datasets using SQL, Presto, Dask, and Multiprocessing
+• Experience of utilizing Machine Learning models involving linear, non-linear, tree(Decision, Random, AdaBoost, XGBoost, LightGBM),  Dimensionality Reduction, Clustering, and Anomaly Detection
+• Experience of utilizing Machine Learning Explainability tools like PDP, ELI5, SHAP to explain findings to business executives
 
 **Competition experience**:
 1. WiDS Datathon 2020 (kaggle): Top 14% 
@@ -21,9 +27,16 @@ I'm a data scientist who likes to build products utilizing AI, ML tools. I have 
 Data Science Analyst - J.D. Power - July 2018 - Present <br>
 Software Engineer Intern - MoboDexter Inc - Sep 2017 - Dec 2017
 
+**Skills**: <br>
+• Programming language: Python(Pandas, Tensorflow, PyTorch), R, SQL
+• Data Exploration and Visualization: Tableau, Domo, and countless python packages
+• Tools: Jupyter Notebook, PyCharm, and Distributed Version Control Systems tools (Git, GitHub, GitLab, DVC)
+• Skillsets: Machine Learning, Deep Learning, NLP
+
+
 **Education**: <br>
 M.S, Electrical Engineering – San Jose State University – GPA: 3.8 - May 2018 <br>
 B.E, Electronics and Telecommunication – I.E.T D.A.V.V. - May 2016
 
-**Master's project research paper** [link](https://www.researchgate.net/publication/325659247_Machine_Learning_Models_for_Predicting_Fracture_Strength_of_Porous_Ceramics_and_Glasses)
+**Master's project research paper** : Our research was to utilize machine learning to predict fracture strength of porous ceramics and glasses. Have a look at the researc paper [here](https://www.researchgate.net/publication/325659247_Machine_Learning_Models_for_Predicting_Fracture_Strength_of_Porous_Ceramics_and_Glasses)
 
