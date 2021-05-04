@@ -3,12 +3,12 @@ title: "About"
 permalink: /about/
 ---
 
-• A data scientist with 3 years of professional experience who likes to build products utilizing AI, ML tools <br> 
-• Have end-to-end experience in building ML products starting from data collection, data cleaning, feature engineering and selection, model building and deployment <br>
-• Built descriptive products using visualization softwares like Tableau and Domo <br>
-• Skilled in using SQL, Redshift, Google BigQuery to retrieve and analyze data <br>
+• Data scientist with 3 years of professional experience who likes to build products utilizing AI, ML tools <br> 
+• Has end-to-end experience in building ML products starting from data collection, data cleaning, feature engineering and selection, model building and deployment <br>
+• Has built descriptive products using visualization softwares like Tableau and Domo <br>
+• Skilled in using analytic tools like SQL, Redshift, Google BigQuery to retrieve and analyze data <br>
 • Experience of handling large datasets using SQL, Presto, Dask, and Multiprocessing <br>
-• Experience of utilizing Machine Learning models involving linear, non-linear, tree(Decision, Random, AdaBoost, XGBoost, LightGBM),  Dimensionality Reduction, Clustering, and Anomaly Detection <br>
+• Experience of utilizing Machine Learning models involving linear, non-linear, SVM, KNN, tree(Decision, Random, AdaBoost, XGBoost, LightGBM),  Dimensionality Reduction, Clustering, and Anomaly Detection <br>
 • Experience of utilizing Machine Learning Explainability tools like PDP, ELI5, SHAP to explain findings to business executives <br>
 
 **Competition experience**:
@@ -24,7 +24,7 @@ permalink: /about/
 2. ```DropDuplicateFeatures()```: Drop duplicate features from a dataframe. 
 
 **Experience**: <br>
-Data Science Analyst - J.D. Power - July 2018 - Present <br>
+Data Scientist - J.D. Power - July 2018 - Present <br>
 Software Engineer Intern - MoboDexter Inc - Sep 2017 - Dec 2017
 
 **Skills**: <br>
